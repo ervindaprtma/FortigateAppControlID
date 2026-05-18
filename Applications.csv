@@ -243,6 +243,7 @@ Brightpearl;36134
 Browsec;38952
 Bubbly;34816
 Bugzilla;17573
+CapCut;53531
 CAPWAP;25833
 CBT;16234
 CFTP;16365
@@ -250,6 +251,7 @@ CGI.IRC;25471
 CGIProxy;16675
 CHAOS;16243
 CHARGEN;16613
+Claude;55810
 CMP;17048
 CNLive;38350
 CNN;43425
@@ -354,6 +356,7 @@ DLSw.RPN;16993
 DLSw.WPN;16994
 DNS;16195
 DNS.Over.HTTPS;47816
+DNS.Over.TLS;50869
 DNS.TXT.Records.Tunneling;39624
 DNS_DNS2TCP;17763
 DNS_Dynamic.Update;12634
@@ -1043,7 +1046,9 @@ Microsoft.Azure.Application.Insights;48002
 Microsoft.Azure.Traffic.Manager;47996
 Microsoft.CDN;41470
 Microsoft.Cloud.App.Security;47962
+Microsoft.Copilot;53352
 Microsoft.Exchange.Server;24703
+Microsoft.Loop;54507
 Microsoft.Office.365;33182
 Microsoft.Office.365.Access;43280
 Microsoft.Office.365.Excel;43278
@@ -1084,6 +1089,7 @@ Microsoft.Store;40503
 Microsoft.Stream;47961
 Microsoft.Sway;41516
 Microsoft.Teams;43541
+Microsoft.Teams_Audio;54418
 Microsoft.Teams_Posting;47822
 Microsoft.Tenant.Namespace;41471
 Microsoft.URL.Shortener;47966
@@ -1123,6 +1129,7 @@ NFS;16303
 NNTP;16213
 NNTP_Command;15230
 NOD32.Update;17041
+Npmjs;60633
 NSFNET.IGP;16386
 NTLM.HTTP;17613
 NTP;16270
@@ -1178,6 +1185,7 @@ Netvibes;35757
 Netvibes_Add.Content;35758
 Neverwinter;36371
 New.York.Times;43426
+New.Relic;37359
 Ngrok;37401
 Niconico;17333
 Nimbuzz;16056
@@ -1211,6 +1219,7 @@ OneDrive_File.Share;42006
 OneDrive_File.Upload;35418
 Ooyala;16003
 Open.WebMail;24727
+OpenAI.ChatGPT;52618
 OpenDoor;37186
 OpenDrive;35657
 OpenDrive_File.Download;35659
@@ -1495,6 +1504,7 @@ SSL_TLSv1.0;41542
 SSL_TLSv1.1;41541
 SSL_TLSv1.2;41540
 SSL_TLSv1.3;47013
+SSL_TLSv1.3.PQC;56688
 SSTP;34964
 ST;16212
 STOMP.Protocol;43342
@@ -1898,6 +1908,7 @@ WinPcap.Rpcapd;16973
 WinSCP;31287
 Winamp;17143
 WindScribe;43625
+Windsurf;57707
 Windows.CRL.Request;17162
 Windows.File.Sharing;27457
 Windows.File.Sharing_Create.Directory;31824
