@@ -82,6 +82,7 @@ Airtime;33238
 Akamai.Client;23662
 Alexa.Toolbar;16789
 Alibaba;16491
+Alipay;52516
 AllMusic;30169
 Allstate;44033
 Alpemix;32343
@@ -128,6 +129,7 @@ Apple.Remote.Desktop;37619
 Apple.Services;42662
 Apple.Software.Update;16171
 Apple.Store;38900
+Apple.Siri;59904
 Apple.iCloud.Storage;46178
 Apple.iPad;25953
 Apple.iPhone;25903
@@ -146,6 +148,7 @@ Astrill;26583
 Asus.WebStorage;27507
 Atlassian.Confluence;36891
 Atlassian.JIRA;36596
+Atlassian.Cloud;55579
 Atom.Publishing.Protocol;16425
 Atom.VPN;43465
 AutoDesk.360;39546
@@ -156,6 +159,7 @@ Avast.Update;31989
 Avira.Phantom.VPN;42831
 Avira.Update;24265
 AzureWatch;36205
+Azure.IoT.Hub;50216
 BBC;30238
 BBC.iPlayer;16062
 BBCP;34244
@@ -583,6 +587,7 @@ GigaTribe;38382
 Git;25936
 GitHub_Edit;45623
 Github;35766
+GitLab;57737
 Github_File.Download;35767
 Github_File.Upload;45622
 Glype;16013
@@ -613,6 +618,7 @@ Google.Calendar;16053
 Google.Calendar_G.Suite;43335
 Google.Calendar_Personal;43334
 Google.Calendar_Post;42769
+Google.Chat;49384
 Google.Cloud.Messaging;43605
 Google.Cloud.Platform;43292
 Google.Cloud.Platform_App.Engine;43296
@@ -651,6 +657,7 @@ Google.Drive_Personal;43324
 Google.Earth;16593
 Google.FeedBurner;30269
 Google.Finance;16698
+Google.Gemini;52849
 Google.Groups;17154
 Google.Groups_G.Suite;43333
 Google.Groups_Personal;43332
@@ -662,6 +669,7 @@ Google.Hangouts_Video.Call;37402
 Google.Keep;36249
 Google.Maps;24818
 Google.Maps_Street.View;36853
+Google.Meet;48983
 Google.Photos;42768
 Google.Play;33053
 Google.Play.Music;45064
@@ -682,6 +690,7 @@ Google.Stackdriver;43294
 Google.Talk;11203
 Google.Toolbar;15849
 Google.Translate;24473
+Google.Translate_Websites;57251
 Google_Login;38467
 Google_Login.G.Suite;43316
 Google_Login.Personal;43315
@@ -1924,6 +1933,7 @@ Windows.File.Sharing_Write.File;31833
 Windows.Media.Player;16940
 Windows.Phone.Store;39537
 Windows.Powershell;40304
+Windows.Push.Notification;52452
 Winny;11
 Wire;43965
 WireGuard;46495
@@ -2011,6 +2021,7 @@ YouTube_Channel.ID;44956
 YouTube_Comment.Posting;31076
 YouTube_HD.Streaming;33104
 YouTube_Messenger;47858
+YouTube_Music;55756
 YouTube_Search.Safety.Mode.Off;23397
 YouTube_Search.Video;30201
 YouTube_Video.Access;16420
@@ -2038,6 +2049,7 @@ Zendesk;28877
 Zero.VPN;43287
 ZeroNet;44295
 ZeroPC;36006
+ZeroTierOne;55465
 Zhengtu;16499
 Zhihu;46933
 Zimbra;16486
