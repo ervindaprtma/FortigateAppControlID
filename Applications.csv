@@ -360,6 +360,7 @@ DICOM_N.Get.Request;34505
 DICOM_N.Set.Request;34503
 DLSw.RPN;16993
 DLSw.WPN;16994
+DNF;59958
 DNS;16195
 DNS.Over.HTTPS;47816
 DNS.Over.TLS;50869
@@ -388,6 +389,8 @@ Dell.Kace;31160
 Dell.Service;46837
 Dell.SupportAssist;46832
 Dell.Update;30796
+DeepSeek;57236
+DeepL;55706
 Desk.Com;35825
 DeskShare;18119
 DeviantArt;30098
@@ -954,6 +957,7 @@ Kollective;30531
 Kpasswd;17146
 Kshd;17164
 Ku6;16537
+Kuaishou;56582
 Kugou;16590
 Kuwo.Music;27104
 L2TP;16435
@@ -1073,11 +1077,14 @@ Micros;37500
 Microsoft.Authentication;41475
 Microsoft.Azure;38924
 Microsoft.Azure.Application.Insights;48002
+Microsoft.Azure.Blob.Storage;57032
 Microsoft.Azure.Traffic.Manager;47996
 Microsoft.CDN;41470
 Microsoft.Cloud.App.Security;47962
 Microsoft.Copilot;53352
 Microsoft.Exchange.Server;24703
+Microsoft.Forms;48100
+Microsoft.Intune;50829
 Microsoft.Loop;54507
 Microsoft.Office.365;33182
 Microsoft.Office.365.Access;43280
@@ -1121,6 +1128,7 @@ Microsoft.Sway;41516
 Microsoft.Teams;43541
 Microsoft.Teams_Audio;54418
 Microsoft.Teams_Posting;47822
+Microsoft.Teams_Video;54419
 Microsoft.Tenant.Namespace;41471
 Microsoft.URL.Shortener;47966
 Microsoft_Login;38550
@@ -1470,6 +1478,7 @@ Rusers;16680
 Rutube;16442
 Rwho;16594
 S1AP;32443
+SAP.Concur;54381
 SAP.Diagnostic;40776
 SAP.Message.Server;40791
 SAP.Router;25039
@@ -1704,6 +1713,7 @@ Talk;17195
 Talkbox;33988
 Talktatone;39454
 Tango;32640
+Taobao;16468
 Taobao.Aliww;16946
 Tapatalk;32171
 Taringa;31205
@@ -1866,6 +1876,7 @@ VirtualShield;46720
 Vkontakte;24630
 Vkontakte_Chat;25627
 Vkontakte_Mail;28511
+VSCO;55895
 Vsee;17204
 Vuze;16080
 Vypr.VPN;47809
