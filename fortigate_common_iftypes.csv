@@ -1,0 +1,18 @@
+ifType_ID,ifType_Name,Description,Common_FortiGate_Usage
+6,ethernetCsmacd,Physical Ethernet interface (LAN/WAN/FortiLink),"port1, port2, hardware interfaces"
+24,softwareLoopback,Loopback interface,Loopback/VIP monitoring/routing ID
+53,propVirtual,Virtual or internal proprietary interface,Virtual interfaces/internal processing
+71,ieee80211,Wireless interface,FortiWiFi/WLAN interfaces
+118,hdlc,HDLC interface,Rarely used serial/WAN links
+131,tunnel,Tunnel interface,"IPsec VPN, GRE, SSL-VPN tunnel"
+135,l2vlan,802.1Q VLAN interface,VLAN subinterfaces
+136,l3ipvlan,Layer 3 VLAN interface,Logical routed VLAN
+142,ipForward,IP forwarding interface,Routing/forwarding virtual interface
+150,mplsTunnel,MPLS tunnel interface,MPLS deployments
+161,ieee8023adLag,Link Aggregation (LACP),Aggregate/LACP interfaces
+166,mpls,MPLS interface,Carrier/MPLS integration
+209,bridge,Bridge interface,Transparent mode/software switch
+216,gtp,GPRS Tunneling Protocol,Mobile carrier inspection
+222,ciscoISLvlan,Cisco ISL VLAN,Legacy interoperability
+243,wwanPP,3GPP WWAN interface,LTE/5G modem interface
+258,vmwareVirtualNic,VMware virtual NIC,FortiGate-VM deployments
