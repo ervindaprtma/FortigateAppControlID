@@ -93,6 +93,7 @@ Amazon.AWS_EC2;36740
 Amazon.AWS_S3;35944
 Amazon.AWS_S3.Download;47432
 Amazon.AWS_S3.Upload;47433
+Amazon.AWS_IoT.Core;50144
 Amazon.Ads;43349
 Amazon.Alexa;45138
 Amazon.Cloud.Drive;26875
@@ -156,6 +157,7 @@ AutoDesk.360_Upload;39547
 AutoHideIP;35202
 Autodesk.Buzzsaw;39591
 Avast.Update;31989
+Avast.Service;51546
 Avira.Phantom.VPN;42831
 Avira.Update;24265
 AzureWatch;36205
@@ -167,6 +169,7 @@ BBN.RCC.MON;16237
 BFD;35928
 BGP;16701
 BICC;28622
+Bilibili;53243
 BNA;16311
 BOINC;16665
 BOOTP;16250
@@ -251,6 +254,8 @@ Bubbly;34816
 Bugzilla;17573
 CapCut;53531
 CAPWAP;25833
+Calendly;50736
+Cloudinary;59814
 CBT;16234
 CFTP;16365
 CGI.IRC;25471
@@ -401,6 +406,7 @@ DingTalk;47964
 Direct.Connect;10905
 Discard;16638
 Discord;42806
+Disney+;48692
 Disqus;35824
 Distcc;16858
 Distributed.Net;17020
@@ -432,6 +438,7 @@ Droplr_Preview;38974
 Droplr_Upload;38958
 Drupal;30127
 Druva.InSync;38778
+Dynatrace;56753
 Duba.Update;17039
 DuckDuckGo.Search;45464
 DuckDuckGo.Search_Safe.Off;45465
@@ -878,6 +885,7 @@ ISO.IP;16381
 ISO.TP4;16278
 Ident;16827
 Ilohamail;16528
+Imgur;59891
 Imgur.File.Upload;38693
 Imo;25198
 Insightly;35793
@@ -962,6 +970,7 @@ Kugou;16590
 Kuwo.Music;27104
 L2TP;16435
 LARP;16392
+Lark;53242
 LDAP;16173
 LDP;16300
 LINE.WORKS;46218
@@ -1130,6 +1139,7 @@ Microsoft.Teams_Audio;54418
 Microsoft.Teams_Posting;47822
 Microsoft.Teams_Video;54419
 Microsoft.Tenant.Namespace;41471
+Microsoft.ToDo;48109
 Microsoft.URL.Shortener;47966
 Microsoft_Login;38550
 Mikogo;24009
@@ -1359,6 +1369,7 @@ Progress.OpenEdge;35938
 Proguard.VPN;43816
 Projectplace;26728
 Propalms.TSE;26966
+Proton.VPN;56016
 Proxy.HTTP;10734
 Proxy.Websites;32384
 ProxyRental;38846
@@ -1407,6 +1418,7 @@ RDM.Plus;25622
 RDP;15511
 RDP.over.HTTPS;41536
 RDT;16652
+rednote;52517
 RHUB;37382
 RIP;16296
 RIPng;16626
@@ -1530,6 +1542,8 @@ SOCKS5;17429
 SOS.Online.Backup;16691
 SPAMfighter.Update;38944
 SPS;16455
+Speedtest;38171
+Splunk.Cloud;58339
 SQL.Navigator;37206
 SRP;16439
 SSCOPMCE;16453
@@ -1769,6 +1783,7 @@ Torrentz;38683
 TortoiseSVN.Update;17236
 Totodisk;33912
 Touch.VPN;41733
+Toutiao;48800
 TouchDown;41678
 Trace.Route;32304
 Tracetcp;34067
@@ -1823,6 +1838,7 @@ Ubuntu.Update;40565
 UdpTunnel;36420
 Ulozto;41614
 UltraHook;38965
+UltraViewer;48424
 Ultrasurf;10905
 Ultrasurf_9.6+;18007
 Univision;38857
@@ -1899,6 +1915,7 @@ WORKetc;36375
 WSN;16375
 Wake.On.LAN;43604
 Washington.Post;43427
+Wasabi;51136
 WatchDox;31078
 Way2SMS;19796
 Waze;35169
@@ -2091,6 +2108,7 @@ Zip.Cloud;36075
 Zip.Cloud_Download;36078
 Zoho;17466
 Zoho_Bugtracker;36119
+Zoho_Cliq;54547
 Zoho_CRM;24533
 Zoho_Chat;16469
 Zoho_File.Download;40471
