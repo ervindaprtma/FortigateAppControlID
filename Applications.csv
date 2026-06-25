@@ -134,11 +134,13 @@ Apple.Siri;59904
 Apple.iCloud.Storage;46178
 Apple.iPad;25953
 Apple.iPhone;25903
+AppleTV;59840
 Applicability.Statement.2;31498
 Apt-Get;27508
 Arctic.Torrent;30074
 Ares;12183
 Ares_Chat.Join;11768
+Arkoselabs.Captcha;48454
 Armagetron;31251
 Armor.Games;30340
 Aruba.PAPI;26563
@@ -226,6 +228,7 @@ BitTorrent;6
 Bitcoin;36557
 Bitcoin.Cryptocurrency.Miner;44289
 Bitcomet.HTTP.Seed;25649
+Bitdefender.Service;52685
 Bitdefender.Update;17042
 Bitly;38732
 Bitsnoop;43691
@@ -414,6 +417,7 @@ Distributed.Net;17020
 Dlisted;30159
 Dnscat2;41612
 Docker;46402
+Douban;52515
 Docker_Pull.Blob;46403
 Docker_Pull.Manifest;46405
 Docker_Push.Blob;46404
@@ -464,6 +468,7 @@ Egnyte_File.Upload;35763
 Eklogin;17165
 Elastic;37197
 ElephantDrive;36302
+Electronic.Arts;60982
 EndNote;27314
 Engine.Yard.Cloud;36790
 Epic.EMR;47681
@@ -701,6 +706,7 @@ Google.Maps_Street.View;36853
 Google.Maps.Grounding.Lite_MCP;60010
 Google.Meet;48983
 Google.Messaging;43190
+Google.NotebookLM;59245
 Google.NotebookLM_Post;59254
 Google.Photos;42768
 Google.Play;33053
@@ -747,6 +753,7 @@ HIP;16465
 HL7;34500
 HMA.Pro.VPN;43753
 HMP;16255
+HM;58589
 HOPOPT;16624
 HP.DataProtector;39393
 HP.ePrint;36504
@@ -777,6 +784,7 @@ Hammer.VPN;44131
 Hangame;28283
 Hattrick;30341
 Hay.Day;38336
+HBO.Max;52642
 HeaderTun.VPN;46507
 Helix.DNA;15924
 HelpOnClick;36209
@@ -1003,6 +1011,7 @@ LiveCare;31021
 LiveTV.Toolbar;24006
 Livedoor.Webmail;17354
 Livejournal;16355
+LivePerson;60856
 Livestream;36590
 Load.Impact;36462
 Localtunnel;38964
@@ -1082,19 +1091,23 @@ Meraki.Cloud.Controller;39621
 Mercurial;24970
 Mercurial_Upload;39505
 Metacafe;16029
+Meituan;52514
 Mibbit;23698
 Micros;37500
 Microsoft.Authentication;41475
 Microsoft.Azure;38924
 Microsoft.Azure.Application.Insights;48002
 Microsoft.Azure.Blob.Storage;57032
+Microsoft.Azure.DevOps.Services;53340
 Microsoft.Azure.Traffic.Manager;47996
 Microsoft.CDN;41470
 Microsoft.Cloud.App.Security;47962
 Microsoft.Copilot;53352
+Microsoft.Exchange.Admin.Center;53335
 Microsoft.Exchange.Server;24703
 Microsoft.Forms;48100
 Microsoft.Intune;50829
+Microsoft.KMS;60099
 Microsoft.Loop;54507
 Microsoft.Office.365;33182
 Microsoft.Office.365.Access;43280
@@ -1122,6 +1135,7 @@ Microsoft.Outlook_Attachment.Upload;38708
 Microsoft.Outlook_Read.Message;41702
 Microsoft.Outlook_Send.Message;41701
 Microsoft.Portal;41469
+Microsoft.Power.BI;50364
 Microsoft.PowerApps;43566
 Microsoft.SharePoint;16190
 Microsoft.SharePoint_Admin;18216
@@ -1141,6 +1155,7 @@ Microsoft.Teams_Posting;47822
 Microsoft.Teams_Video;54419
 Microsoft.Tenant.Namespace;41471
 Microsoft.ToDo;48109
+Microsoft.Visual.Studio.Live.Share;53336
 Microsoft.URL.Shortener;47966
 Microsoft_Login;38550
 Mikogo;24009
@@ -1149,6 +1164,7 @@ Minecraft;27922
 MinerGate.Cryptocurrency.Miner;44026
 Mipony;27103
 Miro;16175
+Miro;59796
 Miss.Lee.Messenger;34060
 Mobile.IP;17113
 Mobile.Legends;45727
@@ -1250,6 +1266,7 @@ Nymgo;34426
 OCN.Mail;25562
 OCSP;25843
 OKHTTP.Library.VPN;39108
+Okta;54923
 OSPF;16390
 OSSEC;26951
 OUCH;28851
@@ -1544,6 +1561,7 @@ SOS.Online.Backup;16691
 SPAMfighter.Update;38944
 SPS;16455
 Speedtest;38171
+Splunk.AppDynamics;59912
 Splunk.Cloud;58339
 SQL.Navigator;37206
 SRP;16439
@@ -1565,6 +1583,7 @@ STOMP.Protocol;43342
 STP;16438
 STUN;16573
 SUN.ND;16378
+Sumo.Logic;56054
 SVT.Play;24887
 SaferVPN;43708
 Sage.One;36656
@@ -1637,6 +1656,8 @@ Slideshare_File.Download;34950
 Slideshare_File.Upload;35762
 Sling.TV;16679
 Smilebox;28875
+SMZDM;58582
+
 Snap.VPN;43464
 Snapchat;34560
 Socks2HTTP;24624
@@ -1800,6 +1821,7 @@ TrendMicro.OfficeScan;34201
 TrendMicro.Update;16669
 TrendMicro.WFBS;31295
 Trillian;31832
+Trimble.SketchUp;59539
 Trin00;16927
 Trippy;34425
 Truecaller;39213
@@ -1836,6 +1858,7 @@ UPnP;16083
 UTI;16440
 UUSee;16105
 Uber;42640
+Ubisoft;60980
 Ubuntu.Update;40565
 UdpTunnel;36420
 Ulozto;41614
@@ -1907,6 +1930,7 @@ WB.MON;16379
 WCCP.V1;16923
 WCCP.V2;17247
 WHOIS;16247
+Whereby;48961
 WINS;16788
 WLCCP;25879
 WMI.DCERPC;46482
@@ -2017,6 +2041,7 @@ XenServer.Update;37738
 Xero;36441
 XiaoMi.IM;36117
 XiaoMing.VPN;47437
+Xunyou.Accelerator;58489
 Y8;30158
 YY.Voice;24939
 YY.Voice_File.Transfer;31175
