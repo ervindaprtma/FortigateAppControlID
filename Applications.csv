@@ -4,6 +4,7 @@
 2ch;17534
 2ch_Post;17535
 3PC;16284
+3CX.App;52798
 4shared;16616
 4shared_File.Download;35760
 4shared_File.Upload;34742
@@ -144,6 +145,7 @@ Arkoselabs.Captcha;48454
 Armagetron;31251
 Armor.Games;30340
 Aruba.PAPI;26563
+ArcGIS;33383
 Arvixe;36933
 Ask.Fm;36468
 Aspera;20922
@@ -291,6 +293,7 @@ Camfrog;16153
 Care2;34301
 Censhare;37706
 Centrify;44422
+Character.AI;54505
 Channels.Manager;36410
 Chatango;37536
 Chikka;14904
@@ -585,6 +588,7 @@ GMTP;16405
 GMX.Webmail;15851
 GNU.HTTPTunnel;18288
 GNUnet;16329
+GOG;60977
 GO.Global;23973
 GOM.Player;17004
 GOM.TV;16999
@@ -597,6 +601,7 @@ Gadu.Gadu;16799
 Garena;18175
 GatherPlace;30728
 Gawker;37952
+GeForce.Now;51995
 Genesys;25174
 Genie;40424
 GetPrivate;39233
@@ -646,6 +651,7 @@ Google.Calendar_G.Suite;43335
 Google.Calendar_Personal;43334
 Google.Calendar_Post;42769
 Google.Chat;49384
+Google.Classroom;50537
 Google.Cloud.Messaging;43605
 Google.Cloud.Platform;43292
 Google.Cloud.Platform_App.Engine;43296
@@ -1134,6 +1140,7 @@ Microsoft.Outlook_Attachment.Download;38709
 Microsoft.Outlook_Attachment.Upload;38708
 Microsoft.Outlook_Read.Message;41702
 Microsoft.Outlook_Send.Message;41701
+Microsoft.Planner;48099
 Microsoft.Portal;41469
 Microsoft.Power.BI;50364
 Microsoft.PowerApps;43566
@@ -1162,6 +1169,7 @@ Mikogo;24009
 Mimecast;47562
 Minecraft;27922
 MinerGate.Cryptocurrency.Miner;44026
+MiniMax;58770
 Mipony;27103
 Miro;16175
 Miro;59796
@@ -1201,6 +1209,7 @@ NTP;16270
 NTR.Cloud;33728
 NTR.Support;18215
 NVP.II;16238
+NVIDIA.NIM;61233
 NZBVortex;37718
 Nagios;16089
 Napster;24731
@@ -1214,6 +1223,7 @@ NateOn_Remote.Control;36390
 NateOn_Web;39057
 Naver.Blog;25069
 Naver.Bot;39485
+Naver.Cafe;50684
 Naver.Cloud;25077
 Naver.Cloud_Download;36232
 Naver.Cloud_Upload;36233
@@ -1286,10 +1296,12 @@ OneDrive_File.Upload;35418
 Ooyala;16003
 Open.WebMail;24727
 OpenAI.ChatGPT;52618
+OpenAI.API;57453
 OpenDoor;37186
 OpenDrive;35657
 OpenDrive_File.Download;35659
 OpenDrive_File.Upload;35658
+OpenRouter;61236
 OpenVPN;17244
 Openmeetings;38848
 Openmeetings_JoinMeetingRoom;38849
@@ -1478,6 +1490,7 @@ Reliable.Data.Protocol;16276
 Remote.Manipulator.System;46612
 RemotePC;37455
 RemotelyAnywhere;16942
+remove.bg;58510
 Renren;27510
 Renren_Apps;27509
 Renren_Chat;28469
@@ -1611,6 +1624,7 @@ SecurityKiss;31379
 Seed4.Me.VPN;44238
 Sendspace;16096
 ServiceDesk.Plus;36575
+ServiceNow;34118
 Session.Announcement.Protocol;28695
 Setup.VPN;42551
 Shadowsocks;43983
@@ -1944,6 +1958,7 @@ Wake.On.LAN;43604
 Washington.Post;43427
 Wasabi;51136
 WatchDox;31078
+Wattpad;51478
 Way2SMS;19796
 Waze;35169
 WeChat;33760
